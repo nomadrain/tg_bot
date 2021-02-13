@@ -1,7 +1,7 @@
 # German-English vocabulary teaching Telegram bot
 German vocabulary teaching Telegram bot. Reacts with a random word from a limited dictionary (5.8K entries). Supports subscriptions and sends a random word to the subscribed users each 12 hours. Forbids simultanous run of the second copy of the process.
 
-The dictionary has bin kindly provided by the https://github.com/hathibelagal/German-English-JSON-Dictionary repository. The repository also contains link to the original on the Project Gutenberg.
+The dictionary has bin kindly provided by the https://github.com/hathibelagal/German-English-JSON-Dictionary repository. The repository also contains link to the original dictionary in the ebook format on the Project Gutenberg.
 
 ## Requirements
 - Python3
